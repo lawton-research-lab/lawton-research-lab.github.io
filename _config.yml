@@ -13,10 +13,10 @@ title                    : "Lawton Research Group"
 title_separator          : "-"
 name                     : &name "Quinton Lawton"
 description              : &description "Lawton Research Group — Tropical waves, African Easterly Waves, and hurricane formation at Northern Illinois University"
-url                      : https://lawton-research-group.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://lawton-research-lab.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lawton-research-group/lawton-research-group.github.io"
+repository               : "lawton-research-lab/lawton-research-lab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
