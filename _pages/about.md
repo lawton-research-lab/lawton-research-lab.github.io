@@ -1,33 +1,62 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Lawton Research Group"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+> **📢 Joining Northern Illinois University!** Dr. Lawton will be joining the [Department of Earth, Atmosphere and Environment](https://www.niu.edu/clas/eae/index.shtml) at Northern Illinois University as a tenure-track **Assistant Professor** starting **August 2026**. Prospective graduate students and undergraduate researchers interested in tropical meteorology are encouraged to [reach out](mailto:qlawton@ucar.edu)!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+---
 
-A data-driven personal website
+Welcome to the Lawton Research Group! Our lab studies the dynamics of tropical weather systems — with a focus on understanding, predicting, and ultimately mitigating the societal impacts of extreme weather in the tropics.
+
+Our research centers on **tropical waves** (including African Easterly Waves and Convectively Coupled Kelvin Waves), **tropical cyclone formation**, and **numerical weather prediction** across scales. We use a combination of observational data analysis, large atmospheric datasets, and numerical modeling platforms — particularly the [MPAS-A system](https://ncar.ucar.edu/what-we-offer/models/model-prediction-across-scales-mpas) — to investigate how tropical waves interact with one another and influence hurricane genesis. We also developed **[QTrack](https://github.com/qlawton/Qtrack)**, an open-source African Easterly Wave tracker used in both research and operational contexts.
+
+Our group has active collaborations with scientists at [NSF NCAR](https://ncar.ucar.edu/), [NOAA's Hurricane Research Division](https://www.aoml.noaa.gov/hurricane-research-division/), [ECMWF](https://www.ecmwf.int/), and [NASA](https://www.nasa.gov/), and our work has been supported by the NSF Graduate Research Fellowship Program and NSF NCAR's Advanced Study Program.
+
+Current Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- Tropical Wave Dynamics and Interactions
+- Scale-Interactions over Africa and the Atlantic
+- Tropical Cyclone Formation
+- Numerical Modeling and Forecast Verification
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+In the News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+**UMiami News** — ["Decades of data show African weather disturbances intensify during La Niña"](https://news.miami.edu/rosenstiel/stories/2025/09/decades-of-data-show-african-weather-disturbances-intensify-during-la-nina.html), Sep 9, 2025.
+
+**USA Today** — ["The 2025 hurricane season is off to a perplexing start"](https://www.usatoday.com/story/news/weather/2025/06/21/2025-hurricane-season-off-to-a-perplexing-start/84258134007/), Jun 21, 2025.
+
+**Fox Weather** — ["What does the remainder of hurricane season look like?"](https://www.foxweather.com/watch/play-77054807e001598), Oct 15, 2024.
+
+**Fox Weather** — ["Saharan Dust plume keeps hurricanes at bay -- at least for now"](https://www.foxweather.com/watch/play-7415319d2001457), Jul 16, 2024.
+
+**News@TheU** — ["Investigating the genesis of hurricanes"](https://news.miami.edu/stories/2024/07/investigating-the-genesis-of-hurricanes.html), Jul 12, 2024.
+
+**News@TheU** — ["New study provides enhanced understanding of tropical atmospheric waves"](https://news.miami.edu/rosenstiel/stories/2024/07/new-study-provides-enhanced-understanding-of-tropical-atmospheric-waves.html), Jul 10, 2024.
+
+**NCAR & UCAR News** — ["Dampening the 'Seeds' of Hurricanes"](https://news.ucar.edu/132966/dampening-seeds-hurricanes), Jul 1, 2024.
+
+**Newsweek** — ["Otis Before-and-After Photos Show Category 5 Hurricane's Destruction"](https://www.newsweek.com/hurricane-otis-storm-damage-satellite-images-1838509), Oct 27, 2023.
+
+**Newsweek** — ["Hurricane Tammy 'Craziest' Spaghetti Models Show US States It Could Hit"](https://www.newsweek.com/hurricane-tammy-spaghetti-models-storm-path-1837707), Oct 25, 2023.
+
+**News@TheU** — ["2021 Atlantic hurricane season comes to an end"](https://news.miami.edu/stories/2021/11/2021-atlantic-hurricane-season-comes-to-an-end.html), Nov 30, 2021.
+
+**News@TheU** — ["A mid-season review of the 2021 Atlantic hurricane season"](https://news.miami.edu/stories/2021/10/a-mid-season-review-of-the-2021-atlantic-hurricane-season.html), Oct 6, 2021.
+
+**News@TheU** — ["Canes on Canes webinar takes a deep dive on hurricanes"](https://news.miami.edu/stories/2021/06/canes-on-canes-webinar-takes-a-deep-dive-on-hurricanes.html), Jun 7, 2021.
+
+**Miami Living Magazine** — ["Hurricane Prep Tips Amid Pandemic"](https://www.miamilivingmagazine.com/post/hurricane-prep-tips-amid-pandemic), Jun 23, 2020.
+
+**News@TheU** — ["UM students awarded prestigious NSF Graduate Research Fellowships"](https://news.miami.edu/rsmas/stories/2020/05/index.html), May 27, 2020.
+
+**TAMU Foundation** — ["A Scientific Summer to Remember"](https://www.txamfoundation.com/News/A-Scientific-Summer-to-Remember.aspx), Jun 19, 2019.
+
+**TAMU GeoNews** — ["Meteorology Student Contributed to Hurricane Forecast Model Improvements"](https://geonews.tamu.edu/news/2018/11/quinton-lawton-hurricane-forecast-model.php), Nov 30, 2018.
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
