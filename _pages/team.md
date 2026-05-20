@@ -9,10 +9,10 @@ author_profile: true
 
 ## Principal Investigator
 
-**Quinton Lawton, PhD**  
-*Incoming Assistant Professor (August 2026)*  
-Department of Earth, Atmosphere and Environment  
-Northern Illinois University  
+**Quinton Lawton, PhD**<br>
+*Incoming Assistant Professor (August 2026)*<br>
+Department of Earth, Atmosphere and Environment<br>
+Northern Illinois University
 
 Dr. Lawton is an atmospheric scientist specializing in tropical waves, African Easterly Waves, and tropical cyclone formation. He is currently an ASP Postdoctoral Fellow at the NSF National Center for Atmospheric Research (NCAR) in Boulder, CO, and will be joining Northern Illinois University as a tenure-track Assistant Professor in August 2026.
 
@@ -38,8 +38,8 @@ Prospective students interested in tropical meteorology, atmospheric dynamics, o
 
 ## Alumni & Former Mentees
 
-**Brooke Weiser** — Undergraduate Research Advisee, University of Miami (2022–2024)  
+**Brooke Weiser** — Undergraduate Research Advisee, University of Miami (2022–2024)<br>
 *Undergraduate Honors Thesis: "Environmental Influences on the Variability of African Easterly Wave Activity Across Seasons"*
 
-**Shanna Chamhitt** — SOARS Summer Research Mentee, NSF NCAR (Summer 2025)  
+**Shanna Chamhitt** — SOARS Summer Research Mentee, NSF NCAR (Summer 2025)<br>
 *Project: "Investigating Non-Propagating Gravity Waves in the Outflow Layer of Tropical Cyclones"*
