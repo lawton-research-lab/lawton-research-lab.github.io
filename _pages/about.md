@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-> **📢 Graduate Student Opportunities!** Dr. Lawton is seeking two highly-motivated students to join our research group starting in either the Spring or Fall 2027 semester! Students with an interest in tropical meteorology and/or numerical modeling are encouraged to [reach out](mailto:qlawton@niu.edu). More information on the graduate program and admission requirements can be found on the [Department of Earth, Atmosphere and Environment website](https://www.niu.edu/earth-atmosphere-environment/index.shtml).  
+> **📢 Graduate Student Opportunities!** Dr. Lawton is seeking two highly-motivated students to join our research group starting in Spring or Fall 2027! Students with an interest in tropical meteorology and/or numerical modeling are encouraged to [reach out](mailto:qlawton@niu.edu). More information on the graduate program and admission requirements can be found on the [Department of Earth, Atmosphere and Environment website](https://www.niu.edu/earth-atmosphere-environment/index.shtml).  
 
 Welcome to the Lawton Research Group! Our lab studies the dynamics of tropical weather systems with a focus on understanding, predicting, and ultimately mitigating the societal impacts of extreme weather in the tropics.
 
