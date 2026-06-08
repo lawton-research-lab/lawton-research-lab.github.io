@@ -23,7 +23,7 @@ repository               : "lawton-research-lab/lawton-research-lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/full_shot.png"
+  avatar           : "full_shot.png"
   name             : "Quinton Lawton"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Assistant Professor, Dept. of Earth, Atmosphere & Environment, Northern Illinois University. Research into tropical meteorology and global weather prediction."
@@ -282,14 +282,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: false
-  #     share: false
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: false
+      share: false
 
 
 # Sass/SCSS
