@@ -1,7 +1,7 @@
 ---
 title: "A Review of African Easterly Waves: Formation, Growth, Structure, and Evolution"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2025-01-03-aew-review
 excerpt: 'A comprehensive review of the current understanding of African Easterly Waves, covering their formation mechanisms, growth processes, structural characteristics, and lifecycle evolution.'
 date: 2026-06-01
