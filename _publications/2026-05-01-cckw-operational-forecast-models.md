@@ -1,7 +1,7 @@
 ---
 title: "On the Representation of Convectively Coupled Kelvin Waves in Operational Forecast Models: An Object-Tracking Perspective"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2025-01-01-cckw-operational-forecast-models
 excerpt: 'Evaluates how well operational numerical weather prediction models represent Convectively Coupled Kelvin Waves using an object-tracking approach, identifying systematic biases relevant to tropical weather forecasting.'
 date: 2026-05-01
