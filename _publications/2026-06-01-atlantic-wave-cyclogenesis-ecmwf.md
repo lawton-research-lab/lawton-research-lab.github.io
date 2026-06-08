@@ -1,7 +1,7 @@
 ---
 title: "Atlantic tropical wave and cyclogenesis forecasting in the physical and new AI forecast systems at ECMWF"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2025-01-02-atlantic-wave-cyclogenesis-ecmwf
 excerpt: 'Assesses the skill of ECMWF physical and AI-based forecast systems in predicting Atlantic tropical waves and tropical cyclogenesis, with implications for operational forecasting improvements.'
 date: 2026-06-01
