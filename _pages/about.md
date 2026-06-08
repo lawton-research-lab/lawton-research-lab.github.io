@@ -13,7 +13,7 @@ Welcome to the Lawton Research Group! Our lab studies the dynamics of tropical w
 
 Our team utilizes high-resolution numerical models, alongside large reanalysis and observational datasets, to study and improve tropical weather prediction. We focus primarily on systems like tropical cyclones, equatorial waves, and African easterly waves. We also study extreme precipitation and tropical convection. A core tenet of our work involves building strong collaborations with operational centers to ensure broader real-world impacts. Dr. Lawton also developed and maintains **[QTrack](https://github.com/qlawton/Qtrack)**, an open-source African Easterly Wave tracker used in both research and operational contexts.
 
-In addition to many academic institutions across the globe, our group has active collaborations with scientists at [NSF NCAR](https://ncar.ucar.edu/), [ECMWF](https://www.ecmwf.int/), and [NASA](https://www.nasa.gov/).
+In addition to working with many academic institutions across the globe, our group has active collaborations with scientists at [NSF NCAR](https://ncar.ucar.edu/), [ECMWF](https://www.ecmwf.int/), and [NASA](https://www.nasa.gov/).
 
 Current Research Interests
 ======
