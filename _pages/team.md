@@ -9,12 +9,14 @@ author_profile: true
 
 ## Principal Investigator
 
-**Quinton Lawton, PhD**<br>
+**Prof. Quinton Lawton*<br>
 *Assistant Professor*<br>
 Department of Earth, Atmosphere and Environment<br>
 Northern Illinois University
 
-Dr. Lawton is an atmospheric scientist specializing in tropical waves, African Easterly Waves, and tropical cyclone formation. His research focuses on understanding the multi-scale interactions between tropical atmospheric waves, particularly Convectively Coupled Kelvin Waves and African Easterly Waves, and how these interactions drive tropical cyclogenesis. He develops observational diagnostics and numerical modeling experiments using the MPAS-A system to improve tropical weather prediction. He also developed [QTrack](https://github.com/qlawton/Qtrack), an open-source Python-based African Easterly Wave tracker used in both research and operational contexts. Ouside of research, Dr. Lawton enjoys hiking, traveling, and spending time with his wife and two cats (Luna and Nova).
+Dr. Lawton is an atmospheric scientist specializing in tropical waves, African easterly waves, and tropical cyclone formation. His research focuses on understanding the multi-scale interactions between tropical atmospheric waves and how these interactions drive extreme weather. He applies this research to tropical weather prediction through the development of diagnostics and numerical modeling experiments using the [MPAS-A system](https://www2.mmm.ucar.edu/projects/mpas/site/index.html). Dr. Lawton also created and maintains [QTrack](https://github.com/qlawton/Qtrack), an open-source Python-based African easterly wave tracker used in both research and operational contexts. 
+
+Dr. Lawton was born in Houston, TX, where he became interested in tropical weather after the devestating landfall of Hurricane Ike in 2008. He went on to get a B.S. in Meteorology from Texas A&M University in 2019 and a Ph.D. from the University of Miami in 2024. Before starting at NIU, Dr. Lawton spent two years as a postdoctoral researcher at the [NSF National Center for Atmospheric Research](https://ncar.ucar.edu) as part of the [Advanced Study Program program](https://edec.ucar.edu/advanced-study-program). Ouside of research and teaching, he enjoys hiking, traveling, and spending time with his wife Beth and two cats (Luna and Nova).
 
 [CV](/cv/) &nbsp;|&nbsp; [Google Scholar](https://scholar.google.com/citations?user=6WX8IJ4AAAAJ) &nbsp;|&nbsp; [ORCID](https://orcid.org/0000-0002-3212-7300) &nbsp;|&nbsp; [GitHub](https://github.com/qlawton)
 
