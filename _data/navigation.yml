@@ -8,14 +8,18 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "Team Members"
+    url: /team/
+    
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/
-
-  - title: "Team"
-    url: /team/
+    url: /teaching/ 
 
   - title: "CV"
     url: /cv/
+
+   - title: "QTrack"
+    url: https://github.com/qlawton/qtrack  
