@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Quinton Lawton"
-  pronouns         : # example: "she/her"  
-  bio              : "Incoming Assistant Professor (Aug 2026), Dept. of Earth, Atmosphere & Environment, Northern Illinois University. Currently ASP Postdoctoral Fellow at NSF NCAR. Research focuses on tropical waves, African Easterly Waves, and hurricane formation."
+  pronouns         : "he/him"# example: "she/her"  
+  bio              : "Assistant Professor, Dept. of Earth, Atmosphere & Environment, Northern Illinois University. Research into tropical meteorology and global weather prediction."
   location         : "DeKalb, IL"
   employer         : "Northern Illinois University"
   uri              : "https://quintonlawton.com"
-  email            : "qlawton@ucar.edu" 
+  email            : "qlawton@niu.edu" 
 
   # Academic websites
   academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : "quintonlawton.com"# Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "QuintonLawton" # Username for X / Twitter
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
