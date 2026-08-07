@@ -1,0 +1,54 @@
+name: Sync Publications
+
+# Pulls the DOI list from ORCID, fetches metadata from Crossref, and opens a
+# pull request adding any paper the site is missing. Existing files in
+# _publications/ are never modified.
+#
+# Scheduled rather than push-triggered: new papers appear when a journal
+# publishes them, not when the site is edited.
+
+on:
+  schedule:
+    - cron: '0 13 * * 1'  # Mondays, 13:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: sync-publications
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # The script is stdlib-only, so there is nothing to install.
+
+      - name: Sync publications from ORCID + Crossref
+        run: |
+          python scripts/sync_publications.py --summary-file "${RUNNER_TEMP}/pr-body.md"
+          {
+            echo 'PR_BODY<<PR_BODY_EOF'
+            cat "${RUNNER_TEMP}/pr-body.md"
+            echo 'PR_BODY_EOF'
+          } >> "$GITHUB_ENV"
+          cat "${RUNNER_TEMP}/pr-body.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: auto/publications-sync
+          delete-branch: true
+          add-paths: _publications/
+          commit-message: 'Add publications discovered via ORCID/Crossref'
+          title: 'Add newly published papers from ORCID'
+          body: ${{ env.PR_BODY }}
+          labels: publications
