@@ -13,7 +13,7 @@ author_profile: true
 
 ## Two Funded Graduate Positions: Tropical Weather Modeling and Extremes
 
-*Northern Illinois University &nbsp;|&nbsp; Spring or Fall 2027*
+### *Northern Illinois University | Spring or Fall 2027*
 
 Dr. Quinton Lawton is seeking **two MS or PhD students** to join the [Weather, Climate, and Society (WCS)](https://wcs.niu.edu/) research group in the [Department of Earth, Atmosphere and Environment (EAE)](https://www.niu.edu/earth-atmosphere-environment/index.shtml) at Northern Illinois University. Both students would be funded as Research Assistants, which includes a stipend and tuition waiver.
 
@@ -25,7 +25,7 @@ Building collaborations with operational centers and engaging in public outreach
 
 ### Applying
 
-Interested students should contact Dr. Quinton Lawton ([qlawton@niu.edu](mailto:qlawton@niu.edu)) to discuss the positions. Prospective students are encouraged to learn more about Dr. Lawton's research and that of the WCS group at [quintonlawton.com](https://quintonlawton.com) and the [WCS group page](https://wcs.niu.edu/). More information on the graduate program can be found on the [EAE graduate program page](https://www.niu.edu/earth-atmosphere-environment/index.shtml).
+Interested students should contact Dr. Quinton Lawton ([qlawton@niu.edu](mailto:qlawton@niu.edu)) to discuss the positions. Prospective students are encouraged to learn more about Dr. Lawton's research and that of the WCS group at [quintonlawton.com](https://quintonlawton.com) and the [WCS group page](https://wcs.niu.edu/). More information on the graduate program can be found on the [EAE graduate program page](https://www.niu.edu/earth-atmosphere-environment/graduate/index.shtml).
 
 <p><a href="{{ base_path }}/files/Lawton_RA_Position_Flyer_2026.pdf" class="btn btn--primary">Download the position flyer (PDF)</a></p>
 
@@ -33,4 +33,4 @@ Interested students should contact Dr. Quinton Lawton ([qlawton@niu.edu](mailto:
 
 ## Undergraduate Research
 
-Undergraduate researchers interested in tropical weather and atmospheric science are welcome to inquire about research opportunities starting as soon as Spring 2027. Please [reach out](mailto:qlawton@niu.edu) to discuss possible projects.
+Undergraduate researchers interested in tropical weather and atmospheric science are welcome to inquire about research opportunities starting as soon as Spring 2027. Please reach outniu to discuss possible projects.
