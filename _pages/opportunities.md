@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <figure style="width: 100%; margin: 0 0 1.5em 0;">
-  <img src="{{ base_path }}/images/goes-tropical-atlantic.jpg" alt="GOES satellite view of tropical convection over the Atlantic, South America, and West Africa" style="width: 100%;">
+  <img src="{{ base_path }}/images/background_atlantic_grab.png" alt="GOES satellite view of tropical convection over the Atlantic, South America, and West Africa" style="width: 100%;">
 </figure>
 
 ## Two Funded Graduate Positions: Tropical Weather Modeling and Extremes
