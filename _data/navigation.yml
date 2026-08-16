@@ -11,6 +11,9 @@ main:
   - title: "Team Members"
     url: /team/
     
+  - title: "Opportunities"
+    url: /opportunities/
+
   - title: "Publications"
     url: /publications/
 

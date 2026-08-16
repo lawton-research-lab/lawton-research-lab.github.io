@@ -26,7 +26,7 @@ Dr. Lawton was born in Houston, TX, where he became interested in tropical weath
 
 *Our research team will be accepting two funded graduate students beginning as early as Spring semester 2027!*  
 
-Prospective students interested in tropical meteorology, atmospheric dynamics, or numerical weather prediction are encouraged to [reach out](mailto:qlawton@ucar.edu) to discuss opportunities. These positions will be funded, with waived university tuition and a stipend. Additional funding opportunities to work on our team may be available through teaching assistantships.
+Prospective students interested in tropical meteorology, atmospheric dynamics, or numerical weather prediction are encouraged to [reach out](mailto:qlawton@ucar.edu) to discuss opportunities. These positions will be funded, with waived university tuition and a stipend. Additional funding opportunities to work on our team may be available through teaching assistantships. Full details are on the [Opportunities](/opportunities/) page.
 
 ---
 
