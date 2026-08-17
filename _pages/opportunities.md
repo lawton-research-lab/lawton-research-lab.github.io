@@ -33,4 +33,4 @@ Interested students should contact Dr. Quinton Lawton ([qlawton@niu.edu](mailto:
 
 ## Undergraduate Research
 
-Undergraduate researchers interested in tropical weather and atmospheric science are welcome to inquire about research opportunities starting as soon as Spring 2027. Please reach outniu to discuss possible projects.
+Undergraduate researchers interested in tropical weather and atmospheric science are welcome to inquire about research opportunities starting as soon as Spring 2027. Please [reach out](mailto:qlawton@niu.edu) to discuss possible projects.
