@@ -45,6 +45,26 @@ author_profile: true
 
 *Undergraduate researchers interested in tropical weather and atmospheric science are welcome to inquire about research opportunities starting as soon as Spring 2027.*
 
+<div class="team-profile">
+	<div class="team-profile__details">
+		<h3>David Laird</h3>
+		<p class="team-profile__role"><em>Undergraduate Researcher</em></p>
+		<p class="team-profile__affiliation">Department of Earth, Atmosphere and Environment<br>
+		Northern Illinois University</p>
+		<p>David joined our research team in Fall of 2026! David's research focuses on teleconnections between the Tropics and the Midlatitudes.</p>
+	</div>
+</div>
+
+<div class="team-profile">
+	<div class="team-profile__details">
+		<h3>Mel Lux</h3>
+		<p class="team-profile__role"><em>Undergraduate Researcher</em></p>
+		<p class="team-profile__affiliation">Department of Earth, Atmosphere and Environment<br>
+		Northern Illinois University</p>
+		<p>Mel joined our research team in Fall of 2026! Mel's research focuses on teleconnections between the Tropics and the Midlatitudes.</p>
+	</div>
+</div>
+
 ---
 
 ## Alumni & Former Mentees
